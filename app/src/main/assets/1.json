@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "nomor": "1",
+            "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْم",
+            "terjemahan": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+        },
+        {
+            "nomor": "2",
+            "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+            "terjemahan": "Segala puji bagi Allah, Tuhan semesta alam."
+        },
+        {
+            "nomor":"3",
+            "arabic": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+            "terjemahan": "Maha Pemurah lagi Maha Penyayang."
+        },
+        {
+            "nomor":"4",
+            "arabic": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+            "terjemahan": "Yang menguasai di Hari Pembalasan."
+        },
+        {
+            "nomor":"5",
+            "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+            "terjemahan": "Hanya Engkaulah yang kami sembah, dan hanya kepada Engkaulah kami meminta pertolongan."
+        },
+        {
+            "nomor":"6",
+            "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+            "terjemahan": "Tunjukilah kami jalan yang lurus,"
+        },
+        {
+            "nomor":"7",
+            "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+            "terjemahan": "(yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat."
+        }
+    ]
+}
